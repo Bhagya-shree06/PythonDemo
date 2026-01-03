@@ -34,7 +34,7 @@ def print_fruits(fruits):
     for x in fruits:
         print(x);
 
-fruits = ["apple","orange", "cherry"];
+fruits = ["apple","orange", "cherry"]
 print_fruits("Apple");
 print_fruits(fruits);
 
@@ -158,7 +158,7 @@ p1.set_person_age(0);
 print(p1.get_person_age());
 
 str1 = "Hello World";
-print(len(str1))
+print(len(str1));
 
 myTuple = ("apple", "orange", "Cherry");
 print(len(myTuple));
